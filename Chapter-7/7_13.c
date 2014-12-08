@@ -11,7 +11,7 @@
 #define SUITS 4
 #define FACES 13
 #define CARDS 52
-#define PLAYERS 10
+#define PLAYERS 2
 
 // prototypes
 void shuffle( unsigned int wDeck[][ FACES ] );
